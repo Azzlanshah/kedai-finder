@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.kodular.azzlanshah.KedaiFinder",
+            "sha256_cert_fingerprints": [
+                "59:B6:74:BB:13:FA:11:90:9D:3D:A7:73:6B:BE:80:C8:F4:2F:E1:C6:57:C6:1D:77:78:E6:EA:B8:F6:FC:4F:8C"
+            ]
+        }
+    }
+]
